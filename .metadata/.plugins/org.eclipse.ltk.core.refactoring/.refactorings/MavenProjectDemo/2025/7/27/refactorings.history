@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;GetMethods.java&apos; to &apos;Selenium.right_click_operation.java&apos;&#x0D;&#x0A;- Original project: &apos;MavenProjectDemo&apos;&#x0D;&#x0A;- Destination element: &apos;Selenium.right_click_operation.java&apos;&#x0D;&#x0A;- Original element: &apos;Selenium_Day1.GetMethods.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src\/test\/java=/test=/true=/=/optional=/true=/=/maven.pomderived=/true=/&lt;Selenium{right_click_operation.java" element1="/src\/test\/java=/test=/true=/=/optional=/true=/=/maven.pomderived=/true=/&lt;Selenium_Day1{GetMethods.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1751562972265" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Cucumber Framework"/>
+			<item value="C:\Automation\MavenProjectDemo\src\test\java\Day1_practise\SumOftheIntegers.java"/>
+			<item value="C:\Automation\Opencart"/>
+			<item value="C:\Automation\MavenProjectDemo"/>
+			<item value="C:\Automation\JavaProject1"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="sivareddy"/>
+			<item value="playwright"/>
+			<item value="Playwright"/>
+			<item value="cucumber"/>
+			<item value="OpenCaerApp"/>
+			<item value="Opencart"/>
+			<item value="opencart01"/>
+			<item value="Opencart1v"/>
+			<item value="MavenProjectDemo"/>
+		</list>
+		<list key="name">
+			<item value="cucumberFramework"/>
+			<item value="cucumber_framework"/>
+			<item value="cucumber-framework"/>
+			<item value="Playwright"/>
+			<item value="Opencart"/>
+		</list>
+		<list key="artifactId">
+			<item value="cucumberFramework"/>
+			<item value="cucumber_framework"/>
+			<item value="cucumber-framework"/>
+			<item value="Playwright"/>
+			<item value="cucumber"/>
+			<item value="OpenCaerApp"/>
+			<item value="opencart01"/>
+			<item value="Opencart"/>
+			<item value="Opencart1v"/>
+			<item value="MavenProjectDemo"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>
