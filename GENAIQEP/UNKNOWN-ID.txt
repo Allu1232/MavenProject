@@ -1,0 +1,10 @@
+1) Description on code fix:  
+The issue arises because the API for generating Epic artifacts expects specific keywords related to features, which leads to failures when users use alternative keywords. The fix involves updating the API or the prompt handling logic to accommodate the expected keywords for both features and epics, ensuring that users can generate artifacts without confusion.
+
+2) Code fix:  
+Relevant Code NOT Found  
+The provided XML configuration does not contain any source code related to the API or the prompt handling logic. Therefore, I cannot provide a side-by-side comparison of the code before and after the fix.
+
+3) Other Relevant details:  
+- The issue highlights a mismatch between user expectations and the API's requirements, indicating a need for better documentation and user guidance.
+- Consider implementing a validation mechanism that checks the keywords used in prompts and provides feedback to users if they do not match the expected keywords.
